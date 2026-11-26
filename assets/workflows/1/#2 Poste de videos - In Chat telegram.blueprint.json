@@ -770,7 +770,7 @@
                 "messages": [
                     {
                         "role": "system",
-                        "content": "Crie uma legenda curta e direta, com no máximo 3 linhas, descrevendo o conteúdo do vídeo de forma envolvente e objetiva.\nApós a descrição, adicione uma CTA rápida para incentivar o engajamento, como: \"Confira agora!\", \"Não perca!\" ou \"Assista até o fim!\".\nFinalize sempre com hashtags relevantes como: #veo3 #ia #automação.\n\nRegras importantes:\n\nNunca forneça opinião ou comentário pessoal.\nnão comente nada por exemplo :\"Aqui está a legenda curta e direta para o vídeo\" ou algo similar.\r\n\n\nNunca explique o vídeo além do necessário.\n\nAlterne o estilo da descrição a cada vídeo para evitar repetições.\n\nSaída final = descrição curta + CTA + hashtags.\n\nExemplo de saída esperada:\n\n\"Transforme suas ideias em realidade com IA em segundos! 🚀\nConfira agora e inspire-se!\nDigita \"ia\" que mando o projeto"
+                        "content": "Crie uma legenda curta e direta, com no máximo 3 linhas, descrevendo o conteúdo do vídeo de forma envolvente e objetiva.\nApós a descriçêo, adicione uma CTA rápida para incentivar o engajamento, como: \"Confira agora!\", \"Nêo perca!\" ou \"Assista até o fim!\".\nFinalize sempre com hashtags relevantes como: #veo3 #ia #automaçêo.\n\nRegras importantes:\n\nNunca forneça opiniêo ou comentário pessoal.\nnêo comente nada por exemplo :\"Aqui está a legenda curta e direta para o vídeo\" ou algo similar.\r\n\n\nNunca explique o vídeo além do necessário.\n\nAlterne o estilo da descriçêo a cada vídeo para evitar repetições.\n\nSaída final = descriçêo curta + CTA + hashtags.\n\nExemplo de saída esperada:\n\n\"Transforme suas ideias em realidade com IA em segundos! 🚀\nConfira agora e inspire-se!\nDigita \"ia\" que mando o projeto"
                     }
                 ],
                 "max_tokens": "2048",
@@ -921,7 +921,7 @@
                                 "__IMTCONN__": 5599379
                             },
                             "mapper": {
-                                "caption": "Esse vídeo foi pro ar sem um único clique. \r\nZero edição. Zero postagem manual. \r\nQuer aprender a criar essa automação ou adquirir o projeto pronto? \r\n📩 comenta \"Eu quero\"! aqui embaixo. \r\n💪Link na bio para o guia completo!\n\n#veo3 #politica #ia #automação\" #make #n8n",
+                                "caption": "Esse vídeo foi pro ar sem um único clique. \r\nZero ediçêo. Zero postagem manual. \r\nQuer aprender a criar essa automaçêo ou adquirir o projeto pronto? \r\n📩 comenta \"Eu quero\"! aqui embaixo. \r\n💪Link na bio para o guia completo!\n\n#veo3 #politica #ia #automaçêo\" #make #n8n",
                                 "accountId": "17841450047208466",
                                 "video_url": "{{335.link}}",
                                 "share_to_feed": false
@@ -1012,7 +1012,7 @@
                                 "width": "",
                                 "chatId": "@Automarizzepro",
                                 "height": "",
-                                "caption": "🧠 ⬇️:\n```\nEsse vídeo foi pro ar sem um único clique. \r\nZero edição. Zero postagem manual. \r\nQuer aprender a criar essa automação ou adquirir o projeto pronto? \r\n📩 comenta \"Eu quero\"! aqui embaixo. 👇 \r\nNão ensino duas vezes.```\n\n#veo3 #politica #ia #automação\" #make #n8n",
+                                "caption": "🧠 ⬇️:\n```\nEsse vídeo foi pro ar sem um único clique. \r\nZero ediçêo. Zero postagem manual. \r\nQuer aprender a criar essa automaçêo ou adquirir o projeto pronto? \r\n📩 comenta \"Eu quero\"! aqui embaixo. 👇 \r\nNêo ensino duas vezes.```\n\n#veo3 #politica #ia #automaçêo\" #make #n8n",
                                 "duration": "",
                                 "filename": "{{312.name}}",
                                 "sendType": "send_bydata",
@@ -1184,7 +1184,7 @@
                             },
                             "mapper": {
                                 "video": "{{309.data}}",
-                                "content": "🧠 ⬇️:\n\nEsse vídeo foi pro ar sem um único clique. \r\nZero edição. Zero postagem manual. \r\nQuer aprender a criar essa automação ou adquirir o projeto pronto? \r\n📩 comenta \"Eu quero\"! aqui embaixo. 👇 \r\nNão ensino duas vezes.```\n\n#veo3 #politica #ia #automação\" #make #n8n\n​",
+                                "content": "🧠 ⬇️:\n\nEsse vídeo foi pro ar sem um único clique. \r\nZero ediçêo. Zero postagem manual. \r\nQuer aprender a criar essa automaçêo ou adquirir o projeto pronto? \r\n📩 comenta \"Eu quero\"! aqui embaixo. 👇 \r\nNêo ensino duas vezes.```\n\n#veo3 #politica #ia #automaçêo\" #make #n8n\n​",
                                 "videoName": "{{309.fileName}}",
                                 "visibility": "PUBLIC",
                                 "feedDistribution": "MAIN_FEED",

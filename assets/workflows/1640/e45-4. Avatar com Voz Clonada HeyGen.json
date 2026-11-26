@@ -181,7 +181,7 @@
                     {
                         "name": "2",
                         "type": "text",
-                        "label": "Publicação (Legenda) (C)"
+                        "label": "Publicaçêo (Legenda) (C)"
                     },
                     {
                         "name": "3",
@@ -196,7 +196,7 @@
                     {
                         "name": "5",
                         "type": "text",
-                        "label": "Data de publicação (F)"
+                        "label": "Data de publicaçêo (F)"
                     },
                     {
                         "name": "6",

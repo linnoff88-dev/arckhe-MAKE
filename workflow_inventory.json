@@ -1100,7 +1100,7 @@
     },
     {
       "id": "1_#6 Gestão de frota - veiculos UMB.blueprint",
-      "name": "#6 Gestão de frota | veiculos UMB",
+      "name": "#6 Gestêo de frota | veiculos UMB",
       "file": "#6 Gestão de frota - veiculos UMB.blueprint.json",
       "path": "assets/workflows/1/#6 Gestão de frota - veiculos UMB.blueprint.json",
       "folder": "1",
@@ -5230,10 +5230,10 @@
       "thumbnail": "assets/workflows/1976/photo_1986_012.jpg"
     },
     {
-      "id": "1994_Automação responde e cataloga email (2)",
+      "id": "1994_Automaçêo responde e cataloga email (2)",
       "name": "Processos E-mail",
-      "file": "Automação responde e cataloga email (2).json",
-      "path": "assets/workflows/1994/Automação responde e cataloga email (2).json",
+      "file": "Automaçêo responde e cataloga email (2).json",
+      "path": "assets/workflows/1994/Automaçêo responde e cataloga email (2).json",
       "folder": "1994",
       "topic_id": "1994",
       "node_count": 9,
@@ -20464,10 +20464,10 @@
       "thumbnail": "assets/workflows/94/photo_132_131.jpg"
     },
     {
-      "id": "94_Ata reunião",
-      "name": "Resumo transcrições - ata reunião",
-      "file": "Ata reunião.json",
-      "path": "assets/workflows/94/Ata reunião.json",
+      "id": "94_Ata reuniêo",
+      "name": "Resumo transcrições - ata reuniêo",
+      "file": "Ata reuniêo.json",
+      "path": "assets/workflows/94/Ata reuniêo.json",
       "folder": "94",
       "topic_id": "94",
       "node_count": 4,

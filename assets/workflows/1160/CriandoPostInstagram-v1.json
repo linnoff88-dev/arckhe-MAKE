@@ -290,7 +290,7 @@
                 "messages": [
                     {
                         "role": "user",
-                        "content": "Aja como um especialista em social media, analise o site crie uma mensagem em português, trazendo post para instagram  de forma afirmativa desse tópico{{2.`0`}}.  informe o site fonte (não precisa do link todo) no final do post"
+                        "content": "Aja como um especialista em social media, analise o site crie uma mensagem em português, trazendo post para instagram  de forma afirmativa desse tópico{{2.`0`}}.  informe o site fonte (nêo precisa do link todo) no final do post"
                     }
                 ],
                 "max_tokens": "500",
@@ -614,7 +614,7 @@
                 "messages": [
                     {
                         "role": "user",
-                        "content": "{{3.result}}Crie um prompt para geração de imagens com essas informações"
+                        "content": "{{3.result}}Crie um prompt para geraçêo de imagens com essas informações"
                     }
                 ],
                 "max_tokens": "500",

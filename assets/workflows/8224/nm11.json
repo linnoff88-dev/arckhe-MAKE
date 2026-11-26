@@ -52,7 +52,7 @@
                 "messages": [
                     {
                         "role": "user",
-                        "content": "**Prompt para categorização de intenção:**\r\n\r\n> **Classifique a seguinte frase em uma destas quatro categorias, com base na intenção principal do usuário:**\r\n> - agendamento\r\n> - pagamento\r\n> - negociacao\r\n> - outros\r\n>\r\n> Regras:\r\n> - Responda **apenas** com uma das quatro palavras permitidas.\r\n> - Mesmo que o texto esteja com erros de digitação ou seja vago, escolha a categoria mais compatível.\r\n> - Se não for possível determinar com clareza, use “outros”.\r\n>\r\n> Frase do usuário:  \r\n>{{4.neka}}\r\n\r\n---\r\n\r\n**Exemplo com a sua frase:**\r\n\r\n> Frase do usuário:  \r\n> `quero fazer um forma de acerto vc pdoe ver para mim`  \r\n> **Resposta esperada:** `negociacao`\r\n\r\n"
+                        "content": "**Prompt para categorizaçêo de intençêo:**\r\n\r\n> **Classifique a seguinte frase em uma destas quatro categorias, com base na intençêo principal do usuário:**\r\n> - agendamento\r\n> - pagamento\r\n> - negociacao\r\n> - outros\r\n>\r\n> Regras:\r\n> - Responda **apenas** com uma das quatro palavras permitidas.\r\n> - Mesmo que o texto esteja com erros de digitaçêo ou seja vago, escolha a categoria mais compatível.\r\n> - Se nêo for possível determinar com clareza, use “outros”.\r\n>\r\n> Frase do usuário:  \r\n>{{4.neka}}\r\n\r\n---\r\n\r\n**Exemplo com a sua frase:**\r\n\r\n> Frase do usuário:  \r\n> `quero fazer um forma de acerto vc pdoe ver para mim`  \r\n> **Resposta esperada:** `negociacao`\r\n\r\n"
                     }
                 ],
                 "response_format": "text"

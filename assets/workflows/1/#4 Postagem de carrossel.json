@@ -1526,7 +1526,7 @@
                                 "messages": [
                                     {
                                         "role": "system",
-                                        "content": "O texto que sera enviado se trata de um prompt que sera utilizado para gerar imagens no Midjorney, preciso que desconsio titulo, porém, nem sempre tem, mas quando tiver, desconsidere, e desconsidere links e mensoes em @ como  nome do canal, considera apenas o prompt, e apenas fornece o prompt original e que não passe de 800 caracteres.\n\nObservações a seguir:\nNão precisa explicar o que vai fazer, nem realizar comentarios, apenas envia o prompt e o mesmo precisa ser em inglês e mantém no prompt informações como: --sref -w --quality  --stylize --profile\n\nCaso não exista um promt pré definido no Caption indicado apenas informa hastags pertinentes. \n​"
+                                        "content": "O texto que sera enviado se trata de um prompt que sera utilizado para gerar imagens no Midjorney, preciso que desconsio titulo, porém, nem sempre tem, mas quando tiver, desconsidere, e desconsidere links e mensoes em @ como  nome do canal, considera apenas o prompt, e apenas fornece o prompt original e que nêo passe de 800 caracteres.\n\nObservações a seguir:\nNêo precisa explicar o que vai fazer, nem realizar comentarios, apenas envia o prompt e o mesmo precisa ser em inglês e mantém no prompt informações como: --sref -w --quality  --stylize --profile\n\nCaso nêo exista um promt pré definido no Caption indicado apenas informa hastags pertinentes. \n​"
                                     },
                                     {
                                         "role": "user",
@@ -1789,7 +1789,7 @@
                                                     {
                                                         "type": "photo",
                                                         "value": "{{232.data}}",
-                                                        "caption": "🧠 ⬇️:\n```\n{{248.result}}```\n\n\nQuer aprender a criar essa atumação? \r\n📩 comenta \"Eu quero\"! aqui embaixo. \n\r\n#n8n #midjorney #leonardoia #ia #make",
+                                                        "caption": "🧠 ⬇️:\n```\n{{248.result}}```\n\n\nQuer aprender a criar essa atumaçêo? \r\n📩 comenta \"Eu quero\"! aqui embaixo. \n\r\n#n8n #midjorney #leonardoia #ia #make",
                                                         "filename": "{{232.fileName}}",
                                                         "sendType": "send_bydata",
                                                         "parseMode": "Markdown"

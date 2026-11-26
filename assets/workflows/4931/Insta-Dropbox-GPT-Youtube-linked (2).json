@@ -332,7 +332,7 @@
                                 "messages": [
                                     {
                                         "role": "user",
-                                        "content": "Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as informações mais recentes das diretrizes da plataforma. Quero que você crie a melhor descrição possível para otimizar os resultados, com base no conteúdo {{15.text}} .O foco deve ser em atrair interessados em práticas sustentáveis e otimizar a descrição para SEO com palavras-chave relevantes. Inclua chamadas para ação que tenha a ver com o conteudo e que incentivem o público a se inscrever no canal e baixar materiais educativos da Nossa Comunidade. Crie 5 Palavras chaves como orienta o Youtube. Nao cite Chamada a Açao.  O resultado não deve apresentar nenhum comentário adicional, formatação ou caracteres especiais. "
+                                        "content": "Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as informações mais recentes das diretrizes da plataforma. Quero que você crie a melhor descriçêo possível para otimizar os resultados, com base no conteúdo {{15.text}} .O foco deve ser em atrair interessados em práticas sustentáveis e otimizar a descriçêo para SEO com palavras-chave relevantes. Inclua chamadas para açêo que tenha a ver com o conteudo e que incentivem o público a se inscrever no canal e baixar materiais educativos da Nossa Comunidade. Crie 5 Palavras chaves como orienta o Youtube. Nao cite Chamada a Açao.  O resultado nêo deve apresentar nenhum comentário adicional, formataçêo ou caracteres especiais. "
                                     }
                                 ]
                             },
@@ -656,7 +656,7 @@
                                 "messages": [
                                     {
                                         "role": "user",
-                                        "content": "Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as diretrizes mais recentes da plataforma e técnicas de viralização. Quero que você crie um título com no maximo 60 caracteres chamativo e viral para um vídeo do assunto que lhe passo Abaixo. O título deve despertar curiosidade e destacar os benefícios , utilizando gatilhos emocionais como exclusividade e urgência, além de otimizar para SEO com palavras-chave de alto impacto. O resultado não deve apresentar nenhum comentário adicional, formatação ou caracteres especiais.\nO assunto é \n{{12.result}}"
+                                        "content": "Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as diretrizes mais recentes da plataforma e técnicas de viralizaçêo. Quero que você crie um título com no maximo 60 caracteres chamativo e viral para um vídeo do assunto que lhe passo Abaixo. O título deve despertar curiosidade e destacar os benefícios , utilizando gatilhos emocionais como exclusividade e urgência, além de otimizar para SEO com palavras-chave de alto impacto. O resultado nêo deve apresentar nenhum comentário adicional, formataçêo ou caracteres especiais.\nO assunto é \n{{12.result}}"
                                     }
                                 ]
                             },

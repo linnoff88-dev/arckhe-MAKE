@@ -1590,7 +1590,7 @@
                 "messages": [
                     {
                         "role": "user",
-                        "content": "Analise o conteúdo abaixo (título e corpo do e-mail) e diga apenas uma palavra: \"sim\" ou \"nao\".\n\nResponda \"sim\" **somente** se o e-mail indicar interesse real em:\n- saber o preço\n- solicitar um desconto\n- perguntar sobre condições de pagamento\n- manifestar desejo de fechar negócio ou compra\n\nCaso contrário, responda \"nao\".\n\nNão explique, não adicione comentários. Sua resposta deve ser somente \"sim\" ou \"nao\".\n\nTítulo do e-mail: {{1.subject}}\nCorpo do e-mail: {{1.text}}",
+                        "content": "Analise o conteúdo abaixo (título e corpo do e-mail) e diga apenas uma palavra: \"sim\" ou \"nao\".\n\nResponda \"sim\" **somente** se o e-mail indicar interesse real em:\n- saber o preço\n- solicitar um desconto\n- perguntar sobre condições de pagamento\n- manifestar desejo de fechar negócio ou compra\n\nCaso contrário, responda \"nao\".\n\nNêo explique, nêo adicione comentários. Sua resposta deve ser somente \"sim\" ou \"nao\".\n\nTítulo do e-mail: {{1.subject}}\nCorpo do e-mail: {{1.text}}",
                         "imageDetail": "auto"
                     }
                 ],

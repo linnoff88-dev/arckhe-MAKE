@@ -1,5 +1,5 @@
 {
-    "name": "Resumo transcrições - ata reunião",
+    "name": "Resumo transcrições - ata reuniêo",
     "flow": [
         {
             "id": 4,
@@ -181,7 +181,7 @@
                 "messages": [
                     {
                         "role": "user",
-                        "content": "Através desse texto crie um passo-a-passo completo para instalação do agente (Flowise+N8N+Evolution API):\n\n\"{{5.text}}\"\n\n\n\nOBSERVAÇÕES:\n1. Preciso que o documento contenha todas as informações necessárias, apresentadas no texto anterior.\n2. Monte um documento bem elaborado, com as informações completas apresentadas no texto.\n3. Remova do passo-a-passo tudo que não faz parte da instalação."
+                        "content": "Através desse texto crie um passo-a-passo completo para instalaçêo do agente (Flowise+N8N+Evolution API):\n\n\"{{5.text}}\"\n\n\n\nOBSERVAÇÕES:\n1. Preciso que o documento contenha todas as informações necessárias, apresentadas no texto anterior.\n2. Monte um documento bem elaborado, com as informações completas apresentadas no texto.\n3. Remova do passo-a-passo tudo que nêo faz parte da instalaçêo."
                     }
                 ],
                 "max_tokens": "16000",

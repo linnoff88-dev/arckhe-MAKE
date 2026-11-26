@@ -423,7 +423,7 @@
                             },
                             "mapper": {
                                 "video": "{{2.data}}",
-                                "content": "🚀✨ Crio automações que publicam imagens e videos geradas por IA de forma totalmente automática! \r\nEm canais: Linkedin, Instagram, Telegram, Facebook🤖🎨\r\n\r\nEsse video foi postado sem cliques, tudo via fluxo inteligente🙂🫡.\nQuer aprender ou adquirir o projeto completo? \n\nEntra no grupo Gratis do Telegram!\n\nAutomatize Pro🇧🇷〽️ - https://t.me/+s5EzdLqljRY1MzIx\n\r\n\n#Automação #make #ai",
+                                "content": "🚀✨ Crio automações que publicam imagens e videos geradas por IA de forma totalmente automática! \r\nEm canais: Linkedin, Instagram, Telegram, Facebook🤖🎨\r\n\r\nEsse video foi postado sem cliques, tudo via fluxo inteligente🙂🫡.\nQuer aprender ou adquirir o projeto completo? \n\nEntra no grupo Gratis do Telegram!\n\nAutomatize Pro🇧🇷〽️ - https://t.me/+s5EzdLqljRY1MzIx\n\r\n\n#Automaçêo #make #ai",
                                 "videoName": "video.mp4",
                                 "visibility": "PUBLIC",
                                 "feedDistribution": "MAIN_FEED",
@@ -858,7 +858,7 @@
                                                 "scoped": "true",
                                                 "connection": "dropbox"
                                             },
-                                            "label": "Automação make"
+                                            "label": "Automaçêo make"
                                         }
                                     }
                                 },
@@ -1705,7 +1705,7 @@
                                 "expect": {
                                     "base": {
                                         "mode": "chose",
-                                        "label": "Canva Automação"
+                                        "label": "Canva Automaçêo"
                                     },
                                     "sort": {
                                         "mode": "chose"

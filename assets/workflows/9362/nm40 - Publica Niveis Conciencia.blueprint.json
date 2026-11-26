@@ -917,7 +917,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "Reconstrução RS"
+                                            "label": "Reconstruçêo RS"
                                         }
                                     },
                                     "parameters": {
@@ -1626,7 +1626,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "Reconstrução RS"
+                                            "label": "Reconstruçêo RS"
                                         }
                                     },
                                     "parameters": {
@@ -2328,7 +2328,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "Reconstrução RS"
+                                            "label": "Reconstruçêo RS"
                                         }
                                     },
                                     "parameters": {
@@ -3030,7 +3030,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "Reconstrução RS"
+                                            "label": "Reconstruçêo RS"
                                         }
                                     },
                                     "parameters": {
@@ -3732,7 +3732,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "Reconstrução RS"
+                                            "label": "Reconstruçêo RS"
                                         }
                                     },
                                     "parameters": {

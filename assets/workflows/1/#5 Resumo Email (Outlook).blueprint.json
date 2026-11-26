@@ -763,7 +763,7 @@
                 "designer": {
                     "x": 1200,
                     "y": 0,
-                    "name": "Descrição"
+                    "name": "Descriçêo"
                 },
                 "restore": {
                     "expect": {
@@ -818,7 +818,7 @@
                 "designer": {
                     "x": 1500,
                     "y": 0,
-                    "name": "Resumo Descrição"
+                    "name": "Resumo Descriçêo"
                 },
                 "restore": {
                     "expect": {
@@ -1427,7 +1427,7 @@
                 "system_instruction": {
                     "parts": [
                         {
-                            "text": "Preciso apenas que resuma do que se trata, por exemplo \"Extravasamento de esgoto\", \"Conserto de rede de esgoto\", \"Obstrução na rede de esgoto\", apenas um remuso rapido para serviço como um gancho do assunto."
+                            "text": "Preciso apenas que resuma do que se trata, por exemplo \"Extravasamento de esgoto\", \"Conserto de rede de esgoto\", \"Obstruçêo na rede de esgoto\", apenas um remuso rapido para serviço como um gancho do assunto."
                         }
                     ]
                 }
@@ -2045,7 +2045,7 @@
                 "system_instruction": {
                     "parts": [
                         {
-                            "text": "Análisa o texto e e retorna apenas dados que esteja realicionado a \"protocolo\", \"Ss\" ou \"matrícula\", por exemplo: \r\nprotocolo: RO20250752136869,\r\nmatrícula: 102649316,\r\nSs: 1031006717.\r\nme retorando apenas o resultado sem o textes adicionais ou outras informações e caso não encontre nada referente, deixe em branco ou \"Não encontrado\".\n\n​"
+                            "text": "Análisa o texto e e retorna apenas dados que esteja realicionado a \"protocolo\", \"Ss\" ou \"matrícula\", por exemplo: \r\nprotocolo: RO20250752136869,\r\nmatrícula: 102649316,\r\nSs: 1031006717.\r\nme retorando apenas o resultado sem o textes adicionais ou outras informações e caso nêo encontre nada referente, deixe em branco ou \"Nêo encontrado\".\n\n​"
                         }
                     ]
                 }
@@ -2705,12 +2705,12 @@
                                         {
                                             "name": "3",
                                             "type": "text",
-                                            "label": "Descrição (D)"
+                                            "label": "Descriçêo (D)"
                                         },
                                         {
                                             "name": "4",
                                             "type": "text",
-                                            "label": "Solicitação (E)"
+                                            "label": "Solicitaçêo (E)"
                                         },
                                         {
                                             "name": "5",
@@ -2953,12 +2953,12 @@
                             {
                                 "name": "3",
                                 "type": "text",
-                                "label": "Descrição (D)"
+                                "label": "Descriçêo (D)"
                             },
                             {
                                 "name": "4",
                                 "type": "text",
-                                "label": "Solicitação (E)"
+                                "label": "Solicitaçêo (E)"
                             },
                             {
                                 "name": "5",

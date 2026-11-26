@@ -243,7 +243,7 @@
                 "messages": [
                     {
                         "role": "user",
-                        "content": "Analise o texto a seguir: \"{{32.text}}\"\n\nIMPORTANTE: Gere um JSON válido com três variáveis:\n- \"PROCESSO\": Retorne o valor do número do processo.\n- \"nomedoreclamante\": Retorne o nome descrito no corpo do email.\n- \"VALOR\": Retorne o valor proposto no corpo do email.\n\nOBSERVAÇÕES IMPORTANTES:\n1 - O JSON deve conter apenas as chaves e valores especificados, sem qualquer caractere ou texto adicional fora das chaves.\n2 - Caso não haja número de processo, não gere o JSON.\n\nO resultado deve ser exatamente um JSON sem formatação extra.\n",
+                        "content": "Analise o texto a seguir: \"{{32.text}}\"\n\nIMPORTANTE: Gere um JSON válido com três variáveis:\n- \"PROCESSO\": Retorne o valor do número do processo.\n- \"nomedoreclamante\": Retorne o nome descrito no corpo do email.\n- \"VALOR\": Retorne o valor proposto no corpo do email.\n\nOBSERVAÇÕES IMPORTANTES:\n1 - O JSON deve conter apenas as chaves e valores especificados, sem qualquer caractere ou texto adicional fora das chaves.\n2 - Caso nêo haja número de processo, nêo gere o JSON.\n\nO resultado deve ser exatamente um JSON sem formataçêo extra.\n",
                         "imageDetail": "auto"
                     }
                 ],

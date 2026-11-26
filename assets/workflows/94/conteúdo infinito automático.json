@@ -472,7 +472,7 @@
                 "messages": [
                     {
                         "role": "user",
-                        "content": "escolha aleatoriamente um link dos disponíveis no resultado: {{19.choices[].message.content}}. Responda só o link. sem conversa. não coloque aspas."
+                        "content": "escolha aleatoriamente um link dos disponíveis no resultado: {{19.choices[].message.content}}. Responda só o link. sem conversa. nêo coloque aspas."
                     }
                 ]
             },

@@ -213,7 +213,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "Educação do Futuro"
+                                            "label": "Educaçêo do Futuro"
                                         }
                                     },
                                     "parameters": {
@@ -726,7 +726,7 @@
                                                     "expect": {
                                                         "page_id": {
                                                             "mode": "chose",
-                                                            "label": "HyperAutomação (Canela)"
+                                                            "label": "HyperAutomaçêo (Canela)"
                                                         }
                                                     },
                                                     "parameters": {

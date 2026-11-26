@@ -524,7 +524,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "HyperAutomação (Canela)"
+                                            "label": "HyperAutomaçêo (Canela)"
                                         }
                                     },
                                     "parameters": {
@@ -839,7 +839,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "HyperAutomação (Canela)"
+                                            "label": "HyperAutomaçêo (Canela)"
                                         }
                                     },
                                     "parameters": {

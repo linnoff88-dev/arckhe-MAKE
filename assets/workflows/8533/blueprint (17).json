@@ -107,7 +107,7 @@
                                 "type": "text"
                             },
                             {
-                                "name": "Descrição do Produto\n",
+                                "name": "Descriçêo do Produto\n",
                                 "type": "text"
                             },
                             {
@@ -169,7 +169,7 @@
                             {
                                 "name": "question_py5qdb",
                                 "type": "text",
-                                "label": "Descrição do Produto\n"
+                                "label": "Descriçêo do Produto\n"
                             },
                             {
                                 "name": "question_1dO0kW",
@@ -1388,7 +1388,7 @@
                     },
                     {
                         "role": "user",
-                        "content": "Producto: {{1.fields.`Título do Produto\n`}}\nDescripción: {{1.fields.`Descrição do Produto\n`}}\nEstilo de la imagen: {{1.fields.`Estilo Desejado da Imagem\n`}}",
+                        "content": "Producto: {{1.fields.`Título do Produto\n`}}\nDescripción: {{1.fields.`Descriçêo do Produto\n`}}\nEstilo de la imagen: {{1.fields.`Estilo Desejado da Imagem\n`}}",
                         "imageDetail": "auto"
                     }
                 ],
