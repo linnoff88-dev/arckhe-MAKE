@@ -39,7 +39,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "TDS Google connection (inematds@gmail.com)"
+                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                         },
                         "spreadsheetId": {
                             "path": [
@@ -480,7 +480,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted connection (inematds@gmail.com)"
+                            "label": "My Google Restricted connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },
@@ -1123,7 +1123,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted connection (inematds@gmail.com)"
+                            "label": "My Google Restricted connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },
@@ -2053,7 +2053,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted connection (inematds@gmail.com)"
+                            "label": "My Google Restricted connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },
@@ -2307,7 +2307,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "TDS Google connection (inematds@gmail.com)"
+                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },

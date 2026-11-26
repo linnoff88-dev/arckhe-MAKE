@@ -37,7 +37,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted connection (inema@inema.vip)"
+                            "label": "My Google Restricted connection (ARCKHÉ@ARCKHÉ.vip)"
                         },
                         "destination": {
                             "label": "My Drive"
@@ -153,7 +153,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted connection (inema@inema.vip)"
+                            "label": "My Google Restricted connection (ARCKHÉ@ARCKHÉ.vip)"
                         }
                     }
                 },

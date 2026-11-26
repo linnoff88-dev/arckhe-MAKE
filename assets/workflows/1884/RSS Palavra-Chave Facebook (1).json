@@ -222,7 +222,7 @@
                                                 "scoped": "true",
                                                 "connection": "facebook"
                                             },
-                                            "label": "INEMA My Facebook connection (Nei Eugenio Maldaner)"
+                                            "label": "ARCKHÉ My Facebook connection (Nei Eugenio Maldaner)"
                                         }
                                     }
                                 },
@@ -644,7 +644,7 @@
                                                     "expect": {
                                                         "page_id": {
                                                             "mode": "chose",
-                                                            "label": "INEMA Profissional Do Futuro"
+                                                            "label": "ARCKHÉ Profissional Do Futuro"
                                                         }
                                                     },
                                                     "parameters": {
@@ -653,7 +653,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "facebook"
                                                             },
-                                                            "label": "INEMA My Facebook connection (Nei Eugenio Maldaner)"
+                                                            "label": "ARCKHÉ My Facebook connection (Nei Eugenio Maldaner)"
                                                         }
                                                     }
                                                 },
@@ -735,7 +735,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "facebook"
                                                             },
-                                                            "label": "INEMA My Facebook connection (Nei Eugenio Maldaner)"
+                                                            "label": "ARCKHÉ My Facebook connection (Nei Eugenio Maldaner)"
                                                         }
                                                     }
                                                 },
@@ -843,7 +843,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "facebook"
                                                             },
-                                                            "label": "INEMA My Facebook connection (Nei Eugenio Maldaner)"
+                                                            "label": "ARCKHÉ My Facebook connection (Nei Eugenio Maldaner)"
                                                         }
                                                     }
                                                 },
@@ -937,7 +937,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "facebook"
                                                             },
-                                                            "label": "INEMA My Facebook connection (Nei Eugenio Maldaner)"
+                                                            "label": "ARCKHÉ My Facebook connection (Nei Eugenio Maldaner)"
                                                         }
                                                     }
                                                 },

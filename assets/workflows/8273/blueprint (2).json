@@ -1,5 +1,5 @@
 {
-    "name": "nm12-INEMA DIGITAL COACH Webhooks GPT",
+    "name": "nm12-ARCKHÉ DIGITAL COACH Webhooks GPT",
     "flow": [
         {
             "id": 1,
@@ -21,7 +21,7 @@
                             "data": {
                                 "editable": "true"
                             },
-                            "label": "INEMA Digital Coach"
+                            "label": "ARCKHÉ Digital Coach"
                         }
                     }
                 },
@@ -123,7 +123,7 @@
                     "5": "{{4.`__IMTLENGTH__`}}",
                     "6": "=NOW()"
                 },
-                "sheetId": "INeMADigital",
+                "sheetId": "ARCKHÉDigital",
                 "spreadsheetId": "/1GMBiD_JrTTTIGzRnpXiob2lp4FCRwIA2cqYvq2CXs2k",
                 "includesHeaders": true,
                 "insertDataOption": "INSERT_ROWS",
@@ -144,7 +144,7 @@
                             "label": "Search by path"
                         },
                         "sheetId": {
-                            "label": "INeMADigital"
+                            "label": "ARCKHÉDigital"
                         },
                         "spreadsheetId": {
                             "path": [
@@ -311,7 +311,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "TDS Google connection (inematds@gmail.com)"
+                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },

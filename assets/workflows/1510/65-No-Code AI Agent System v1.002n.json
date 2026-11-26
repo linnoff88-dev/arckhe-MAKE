@@ -2708,7 +2708,7 @@
                                                                 "limit": "10",
                                                                 "timeMax": "{{53.endDate}}",
                                                                 "timeMin": "{{53.startDate}}",
-                                                                "calendar": "inematds@gmail.com",
+                                                                "calendar": "linnoff88-dev@gmail.com",
                                                                 "singleEvents": false
                                                             },
                                                             "metadata": {
@@ -2724,7 +2724,7 @@
                                                                         },
                                                                         "calendar": {
                                                                             "mode": "chose",
-                                                                            "label": "inematds@gmail.com (Primary Calendar)"
+                                                                            "label": "linnoff88-dev@gmail.com (Primary Calendar)"
                                                                         },
                                                                         "eventTypes": {
                                                                             "mode": "chose"
@@ -2736,7 +2736,7 @@
                                                                                 "scoped": "true",
                                                                                 "connection": "google"
                                                                             },
-                                                                            "label": "TDS Google connection (inematds@gmail.com)"
+                                                                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                                                                         }
                                                                     }
                                                                 },
@@ -6362,7 +6362,7 @@
                                                                 "start": "{{60.result.startDate}}",
                                                                 "select": "detail",
                                                                 "summary": "📆 Our Meeting",
-                                                                "calendar": "inematds@gmail.com",
+                                                                "calendar": "linnoff88-dev@gmail.com",
                                                                 "duration": "{{60.result.duration}}",
                                                                 "attendees": [
                                                                     {
@@ -6396,7 +6396,7 @@
                                                                         },
                                                                         "calendar": {
                                                                             "mode": "chose",
-                                                                            "label": "inematds@gmail.com (Primary Calendar)"
+                                                                            "label": "linnoff88-dev@gmail.com (Primary Calendar)"
                                                                         },
                                                                         "attendees": {
                                                                             "mode": "chose",
@@ -6438,7 +6438,7 @@
                                                                                 "scoped": "true",
                                                                                 "connection": "google"
                                                                             },
-                                                                            "label": "gmail inematds"
+                                                                            "label": "gmail linnoff88-dev"
                                                                         }
                                                                     }
                                                                 },

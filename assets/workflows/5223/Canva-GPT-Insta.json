@@ -609,7 +609,7 @@
                     "expect": {
                         "accountId": {
                             "mode": "chose",
-                            "label": "INEMA Profissional Do Futuro (@inemafuturos)"
+                            "label": "ARCKHÉ Profissional Do Futuro (@ARCKHÉfuturos)"
                         },
                         "user_tags": {
                             "mode": "chose"

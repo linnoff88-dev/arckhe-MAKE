@@ -34,7 +34,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted connection (inema@inema.vip)"
+                            "label": "My Google Restricted connection (ARCKHÉ@ARCKHÉ.vip)"
                         },
                         "criteria": {
                             "label": "All emails"
@@ -631,7 +631,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "Google Connection (inema@inema.vip)"
+                            "label": "Google Connection (ARCKHÉ@ARCKHÉ.vip)"
                         }
                     }
                 },

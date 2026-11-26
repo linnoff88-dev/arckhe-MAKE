@@ -1,5 +1,5 @@
 {
-    "name": "INEMA TDS Instagram to Google Drive Youtube (ok)",
+    "name": "ARCKHÉ TDS Instagram to Google Drive Youtube (ok)",
     "flow": [
         {
             "id": 1,
@@ -22,7 +22,7 @@
                                 "scoped": "true",
                                 "connection": "instagram2"
                             },
-                            "label": "My Instagram connection INEMA.TDS (inema.tds)"
+                            "label": "My Instagram connection ARCKHÉ.TDS (ARCKHÉ.tds)"
                         }
                     }
                 },
@@ -90,7 +90,7 @@
                                                 "scoped": "true",
                                                 "connection": "instagram2"
                                             },
-                                            "label": "My Instagram connection INEMA.TDS (inema.tds)"
+                                            "label": "My Instagram connection ARCKHÉ.TDS (ARCKHÉ.tds)"
                                         }
                                     }
                                 },
@@ -160,7 +160,7 @@
                                                 "scoped": "true",
                                                 "connection": "google-restricted"
                                             },
-                                            "label": "TDS Google Restricted connection (inematds@gmail.com)"
+                                            "label": "TDS Google Restricted connection (linnoff88-dev@gmail.com)"
                                         }
                                     }
                                 },
@@ -1046,7 +1046,7 @@
                                                 "scoped": "true",
                                                 "connection": "youtube"
                                             },
-                                            "label": "TDS2 YouTube connection (INEMA TDS <inematds@gmail.com>)"
+                                            "label": "TDS2 YouTube connection (ARCKHÉ TDS <linnoff88-dev@gmail.com>)"
                                         }
                                     }
                                 },
@@ -1365,7 +1365,7 @@
                                                 "scoped": "true",
                                                 "connection": "google"
                                             },
-                                            "label": "My Google connection (inematds@gmail.com)"
+                                            "label": "My Google connection (linnoff88-dev@gmail.com)"
                                         }
                                     }
                                 },

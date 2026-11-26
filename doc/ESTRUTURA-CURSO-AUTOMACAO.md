@@ -1,7 +1,7 @@
 # ESTRUTURA DO CURSO DE AUTOMACAO COM MAKE E IA
 ## 3 Trilhas | 10 Modulos | 6 Topicos por Modulo | 180 Topicos Total
 
-**Base:** Conteudo do grupo INEMA.Make (174 automacoes documentadas)
+**Base:** Conteudo do grupo ARCKHÉ.Make (174 automacoes documentadas)
 **Formato:** Cada topico com 3 secoes obrigatorias
 
 ---
@@ -1110,7 +1110,7 @@
 
 ## BASE DE CONTEUDO
 
-- **Fonte:** Grupo Telegram INEMA.Make
+- **Fonte:** Grupo Telegram ARCKHÉ.Make
 - **Automacoes documentadas:** 174
 - **Blueprints disponiveis:** 100+ arquivos JSON
 - **Periodo do conteudo:** Dez/2024 - Nov/2025

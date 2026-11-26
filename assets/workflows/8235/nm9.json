@@ -39,7 +39,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "TDS Google connection (inematds@gmail.com)"
+                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                         },
                         "spreadsheetId": {
                             "path": [
@@ -777,7 +777,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "TDS Google connection (inematds@gmail.com)"
+                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },

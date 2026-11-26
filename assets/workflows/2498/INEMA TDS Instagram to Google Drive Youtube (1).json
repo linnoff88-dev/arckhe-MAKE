@@ -1,5 +1,5 @@
 {
-    "name": "INEMA TDS Instagram to Google Drive Youtube (ok) Original",
+    "name": "ARCKHÉ TDS Instagram to Google Drive Youtube (ok) Original",
     "flow": [
         {
             "id": 1,
@@ -22,7 +22,7 @@
                                 "scoped": "true",
                                 "connection": "instagram2"
                             },
-                            "label": "My Instagram connection INEMA.TDS (inema.tds)"
+                            "label": "My Instagram connection ARCKHÉ.TDS (ARCKHÉ.tds)"
                         }
                     }
                 },
@@ -90,7 +90,7 @@
                                                 "scoped": "true",
                                                 "connection": "instagram2"
                                             },
-                                            "label": "My Instagram connection INEMA.TDS (inema.tds)"
+                                            "label": "My Instagram connection ARCKHÉ.TDS (ARCKHÉ.tds)"
                                         }
                                     }
                                 },
@@ -154,7 +154,7 @@
                                                 "scoped": "true",
                                                 "connection": "google-restricted"
                                             },
-                                            "label": "My Google Restricted connection (inematds@gmail.com)"
+                                            "label": "My Google Restricted connection (linnoff88-dev@gmail.com)"
                                         }
                                     }
                                 },
@@ -1112,7 +1112,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "youtube"
                                                             },
-                                                            "label": "My YouTube connection (INEMA TDS <inematds@gmail.com>)"
+                                                            "label": "My YouTube connection (ARCKHÉ TDS <linnoff88-dev@gmail.com>)"
                                                         }
                                                     }
                                                 },
@@ -1431,7 +1431,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "google"
                                                             },
-                                                            "label": "TDS Google connection (inematds@gmail.com)"
+                                                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                                                         }
                                                     }
                                                 },
@@ -1691,7 +1691,7 @@
             "notes": [
                 {
                     "id": 1,
-                    "text": "The scenario named \"INEMA TDS Instagram to Google Drive Youtube (ok)\" automates the process of downloading media from Instagram, transcribing it, and uploading it to YouTube while also logging the details in Google Sheets.\n\n1. **1: instagram:WatchMedia** - This module watches for new media on Instagram.\n\n2. **2: builtin:BasicRouter** - This module routes the flow based on conditions defined in the subsequent modules.\n\n   1. **6: instagram:DownloadMedia** - This module downloads media from Instagram, specifically filtering for videos.\n\n   2. **11: google-drive:uploadAFile** - This module uploads the downloaded media file to Google Drive.\n\n   3. **15: openai-gpt-3:CreateTranscription** - This module attempts to create a transcription of the media using OpenAI's Whisper model. However, it may encounter an error if the media data is not in a supported format or if there are issues with the API call, which could prevent the transcription from being generated.\n\n   4. **12: openai-gpt-3:CreateCompletion** - This module generates a description for the YouTube video based on the transcription.\n\n   5. **13: openai-gpt-3:CreateCompletion** - This module creates a catchy title for the YouTube video using the description generated in the previous step.\n\n   6. **9: youtube:uploadVideo** - This module uploads the video to YouTube with the generated title and description.\n\n   7. **14: google-sheets:addRow** - This module adds a new row to a Google Sheet with details about the uploaded video.\n\nThe error in the Create a Transcription (Whisper) module could disrupt the entire flow, as subsequent actions depend on the successful generation of the transcription.",
+                    "text": "The scenario named \"ARCKHÉ TDS Instagram to Google Drive Youtube (ok)\" automates the process of downloading media from Instagram, transcribing it, and uploading it to YouTube while also logging the details in Google Sheets.\n\n1. **1: instagram:WatchMedia** - This module watches for new media on Instagram.\n\n2. **2: builtin:BasicRouter** - This module routes the flow based on conditions defined in the subsequent modules.\n\n   1. **6: instagram:DownloadMedia** - This module downloads media from Instagram, specifically filtering for videos.\n\n   2. **11: google-drive:uploadAFile** - This module uploads the downloaded media file to Google Drive.\n\n   3. **15: openai-gpt-3:CreateTranscription** - This module attempts to create a transcription of the media using OpenAI's Whisper model. However, it may encounter an error if the media data is not in a supported format or if there are issues with the API call, which could prevent the transcription from being generated.\n\n   4. **12: openai-gpt-3:CreateCompletion** - This module generates a description for the YouTube video based on the transcription.\n\n   5. **13: openai-gpt-3:CreateCompletion** - This module creates a catchy title for the YouTube video using the description generated in the previous step.\n\n   6. **9: youtube:uploadVideo** - This module uploads the video to YouTube with the generated title and description.\n\n   7. **14: google-sheets:addRow** - This module adds a new row to a Google Sheet with details about the uploaded video.\n\nThe error in the Create a Transcription (Whisper) module could disrupt the entire flow, as subsequent actions depend on the successful generation of the transcription.",
                     "filter": false
                 }
             ]

@@ -22,7 +22,7 @@
                                 "scoped": "true",
                                 "connection": "instagram2"
                             },
-                            "label": "My Instagram connection INEMA.TDS (maldanernei)"
+                            "label": "My Instagram connection ARCKHÉ.TDS (maldanernei)"
                         }
                     }
                 },
@@ -90,7 +90,7 @@
                                                 "scoped": "true",
                                                 "connection": "instagram2"
                                             },
-                                            "label": "My Instagram connection INEMA.TDS (maldanernei)"
+                                            "label": "My Instagram connection ARCKHÉ.TDS (maldanernei)"
                                         }
                                     }
                                 },
@@ -347,7 +347,7 @@
                                 "messages": [
                                     {
                                         "role": "user",
-                                        "content": "Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as informações mais recentes das diretrizes da plataforma. Quero que você crie a melhor descriçêo possível para otimizar os resultados, com base no conteúdo {{74.text}} .O foco deve ser em atrair interessados em práticas sustentáveis e otimizar a descriçêo para SEO com palavras-chave relevantes. Inclua chamadas para açêo que tenha a ver com o conteudo e que incentivem o público a se inscrever no canal e baixar materiais educativos da Nossa Comunidade. Crie 5 Palavras chaves como orienta o Youtube. Nao cite Chamada a Açao.  O resultado nêo deve apresentar nenhum comentário adicional, formataçêo ou caracteres especiais. Crie no final 5 hashtag viral do Assunto ale da #inema #inematds\nuse o {{70.caption}} para validar informacao"
+                                        "content": "Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as informações mais recentes das diretrizes da plataforma. Quero que você crie a melhor descriçêo possível para otimizar os resultados, com base no conteúdo {{74.text}} .O foco deve ser em atrair interessados em práticas sustentáveis e otimizar a descriçêo para SEO com palavras-chave relevantes. Inclua chamadas para açêo que tenha a ver com o conteudo e que incentivem o público a se inscrever no canal e baixar materiais educativos da Nossa Comunidade. Crie 5 Palavras chaves como orienta o Youtube. Nao cite Chamada a Açao.  O resultado nêo deve apresentar nenhum comentário adicional, formataçêo ou caracteres especiais. Crie no final 5 hashtag viral do Assunto ale da #ARCKHÉ #linnoff88-dev\nuse o {{70.caption}} para validar informacao"
                                     }
                                 ],
                                 "max_tokens": "1000",
@@ -1019,7 +1019,7 @@
                                                     "expect": {
                                                         "accountId": {
                                                             "mode": "chose",
-                                                            "label": "INEMA Profissional Do Futuro (@inemafuturos)"
+                                                            "label": "ARCKHÉ Profissional Do Futuro (@ARCKHÉfuturos)"
                                                         },
                                                         "share_to_feed": {
                                                             "mode": "chose"
@@ -1031,7 +1031,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "facebook"
                                                             },
-                                                            "label": "INEMA My Facebook connection (Nei Eugenio Maldaner)"
+                                                            "label": "ARCKHÉ My Facebook connection (Nei Eugenio Maldaner)"
                                                         }
                                                     }
                                                 },
@@ -1285,7 +1285,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "google"
                                                             },
-                                                            "label": "TDS Google connection (inematds@gmail.com)"
+                                                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                                                         }
                                                     }
                                                 },

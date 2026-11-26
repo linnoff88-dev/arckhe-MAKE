@@ -1,5 +1,5 @@
 # RELATORIO COMPLETO E DEFINITIVO - Pasta doc/
-## Backup do Grupo Telegram "INEMA.Make"
+## Backup do Grupo Telegram "ARCKHÉ.Make"
 
 **Data de Geracao:** 2026-01-02
 **Gerado por:** BMad Orchestrator
@@ -10,9 +10,9 @@
 
 | Atributo | Valor |
 |----------|-------|
-| **Nome do Grupo** | INEMA.Make |
+| **Nome do Grupo** | ARCKHÉ.Make |
 | **ID do Grupo Telegram** | -1002277358326 |
-| **Instrutor Principal** | INEMA (Nei) |
+| **Instrutor Principal** | ARCKHÉ (Nei) |
 | **Data da Extracao** | 2025-11-30 |
 | **Tamanho Total** | 198 MB |
 | **Total de Diretorios** | 176 |
@@ -101,8 +101,8 @@
 | nm8 | Drive para Redes | Google Drive -> Social |
 | nm9 | Planilha + Groq | Geracao de conteudo |
 | nm11 | Webhooks Groq | API gratuita |
-| nm12 | INEMA Digital Coach | Chatbot assistente |
-| nm14 | INEMA Manicure | GPT especializado |
+| nm12 | ARCKHÉ Digital Coach | Chatbot assistente |
+| nm14 | ARCKHÉ Manicure | GPT especializado |
 | nm15 | Bolt com Make | Integracao Bolt.new |
 | nm20-22 | DeepSite webhooks | Chatbots com DeepSeek |
 | nm26 | Reconhecimento Ticket | OCR com GPT Vision |

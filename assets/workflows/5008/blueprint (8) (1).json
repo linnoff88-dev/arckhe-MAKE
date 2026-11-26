@@ -1630,7 +1630,7 @@
                         "label": "Preset style",
                         "validate": {
                             "enum": [
-                                "CINEMATIC",
+                                "CARCKHÉTIC",
                                 "CREATIVE",
                                 "VIBRANT",
                                 "NONE",
@@ -1929,7 +1929,7 @@
                         "label": "Preset style",
                         "validate": {
                             "enum": [
-                                "CINEMATIC",
+                                "CARCKHÉTIC",
                                 "CREATIVE",
                                 "VIBRANT",
                                 "NONE",

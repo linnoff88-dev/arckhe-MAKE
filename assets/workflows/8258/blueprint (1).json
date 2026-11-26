@@ -1,5 +1,5 @@
 {
-    "name": "nm14 - INEMA mANICURE aGENDA",
+    "name": "nm14 - ARCKHÉ mANICURE aGENDA",
     "flow": [
         {
             "id": 1,
@@ -245,7 +245,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "TDS Google connection (inematds@gmail.com)"
+                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },

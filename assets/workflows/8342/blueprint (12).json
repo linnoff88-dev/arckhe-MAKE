@@ -37,7 +37,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted TDS (inematds@gmail.com)"
+                            "label": "My Google Restricted TDS (linnoff88-dev@gmail.com)"
                         },
                         "destination": {
                             "label": "My Drive"
@@ -153,7 +153,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted TDS (inematds@gmail.com)"
+                            "label": "My Google Restricted TDS (linnoff88-dev@gmail.com)"
                         }
                     }
                 },
@@ -264,7 +264,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "My Dumpling AI connection (INEMA VIP)",
+                            "label": "My Dumpling AI connection (ARCKHÉ VIP)",
                             "data": {
                                 "scoped": "true",
                                 "connection": "dumplingai"

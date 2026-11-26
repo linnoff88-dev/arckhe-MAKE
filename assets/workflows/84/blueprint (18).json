@@ -22,7 +22,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "My Google Restricted TDS (inematds@gmail.com)",
+                            "label": "My Google Restricted TDS (linnoff88-dev@gmail.com)",
                             "data": {
                                 "scoped": "true",
                                 "connection": "google-restricted"
@@ -130,7 +130,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "My Google Restricted TDS (inematds@gmail.com)",
+                            "label": "My Google Restricted TDS (linnoff88-dev@gmail.com)",
                             "data": {
                                 "scoped": "true",
                                 "connection": "google-restricted"
@@ -605,7 +605,7 @@
                                     "expect": {
                                         "accountId": {
                                             "mode": "chose",
-                                            "label": "INEMA TIA (@inema.tia)"
+                                            "label": "ARCKHÉ TIA (@ARCKHÉ.tia)"
                                         },
                                         "share_to_feed": {
                                             "mode": "chose"
@@ -703,7 +703,7 @@
                                     "expect": {
                                         "accountId": {
                                             "mode": "chose",
-                                            "label": "INEMA TIA (@inema.tia)"
+                                            "label": "ARCKHÉ TIA (@ARCKHÉ.tia)"
                                         },
                                         "user_tags": {
                                             "mode": "chose"
@@ -834,7 +834,7 @@
                             "restore": {
                                 "parameters": {
                                     "__IMTCONN__": {
-                                        "label": "My ImgBB INEMATDS",
+                                        "label": "My ImgBB linnoff88-dev",
                                         "data": {
                                             "scoped": "true",
                                             "connection": "imgbb"

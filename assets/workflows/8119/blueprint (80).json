@@ -375,7 +375,7 @@
                     "expect": {
                         "page_id": {
                             "mode": "chose",
-                            "label": "INEMA Profissional Do Futuro"
+                            "label": "ARCKHÉ Profissional Do Futuro"
                         }
                     },
                     "parameters": {
@@ -384,7 +384,7 @@
                                 "scoped": "true",
                                 "connection": "facebook"
                             },
-                            "label": "INEMA My Facebook connection"
+                            "label": "ARCKHÉ My Facebook connection"
                         }
                     }
                 },

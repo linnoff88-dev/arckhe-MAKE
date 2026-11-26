@@ -22,7 +22,7 @@
                                 "scoped": "true",
                                 "connection": "instagram2"
                             },
-                            "label": "My Instagram connection INEMA.TDS (inema.tds)"
+                            "label": "My Instagram connection ARCKHÉ.TDS (ARCKHÉ.tds)"
                         }
                     }
                 },
@@ -90,7 +90,7 @@
                                                 "scoped": "true",
                                                 "connection": "instagram2"
                                             },
-                                            "label": "My Instagram connection INEMA.TDS (inema.tds)"
+                                            "label": "My Instagram connection ARCKHÉ.TDS (ARCKHÉ.tds)"
                                         }
                                     }
                                 },
@@ -347,7 +347,7 @@
                                 "messages": [
                                     {
                                         "role": "user",
-                                        "content": "Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as informações mais recentes das diretrizes da plataforma. Quero que você crie a melhor descriçêo possível para otimizar os resultados, com base no conteúdo {{74.text}} .O foco deve ser em atrair interessados em práticas sustentáveis e otimizar a descriçêo para SEO com palavras-chave relevantes. Inclua chamadas para açêo que tenha a ver com o conteudo e que incentivem o público a se inscrever no canal e baixar materiais educativos da Nossa Comunidade. Crie 5 Palavras chaves como orienta o Youtube. Nao cite Chamada a Açao.  O resultado nêo deve apresentar nenhum comentário adicional, formataçêo ou caracteres especiais. Crie no final 5 hashtag viral do Assunto ale da #inema #inematds\nuse o {{70.caption}} para validar informacao"
+                                        "content": "Aja como especialista em mídias sociais com experiência no YouTube, atualizado com as informações mais recentes das diretrizes da plataforma. Quero que você crie a melhor descriçêo possível para otimizar os resultados, com base no conteúdo {{74.text}} .O foco deve ser em atrair interessados em práticas sustentáveis e otimizar a descriçêo para SEO com palavras-chave relevantes. Inclua chamadas para açêo que tenha a ver com o conteudo e que incentivem o público a se inscrever no canal e baixar materiais educativos da Nossa Comunidade. Crie 5 Palavras chaves como orienta o Youtube. Nao cite Chamada a Açao.  O resultado nêo deve apresentar nenhum comentário adicional, formataçêo ou caracteres especiais. Crie no final 5 hashtag viral do Assunto ale da #ARCKHÉ #linnoff88-dev\nuse o {{70.caption}} para validar informacao"
                                     }
                                 ],
                                 "max_tokens": "1000",
@@ -997,7 +997,7 @@
                                 "messages": [
                                     {
                                         "role": "user",
-                                        "content": "Prompt: \"Crie um resumo detalhado e uma lista de tópicos com exemplos do vídeo abaixo. O resumo deve ser uma explicaçêo clara do conteúdo principal do vídeo, e a lista de tópicos deve seguir a estrutura de tempo (minuto:segundo) apresentada no vídeo. Cada tópico deve incluir uma breve explicaçêo e um exemplo prático extraído do vídeo. Aqui estêo as informações do vídeo:Vídeo: [Título do vídeo]  Descriçêo: [Descriçêo detalhada do vídeo]  Palavras-chave: [Palavras-chave relacionadas ao conteúdo]  Links: [@inema.tds](@inema.tds)Tópicos e timestamps:  00:00 - [Primeiro tópico]  [Tempo] - [Segundo tópico]  [Tempo] - [Terceiro tópico]  [Tempo] - [Quarto tópico]  [Tempo] - [Quinto tópico] Hashtags: #inema #comunidade [5 palavras-chave relacionadas ao SEO]\n{{76.result}}"
+                                        "content": "Prompt: \"Crie um resumo detalhado e uma lista de tópicos com exemplos do vídeo abaixo. O resumo deve ser uma explicaçêo clara do conteúdo principal do vídeo, e a lista de tópicos deve seguir a estrutura de tempo (minuto:segundo) apresentada no vídeo. Cada tópico deve incluir uma breve explicaçêo e um exemplo prático extraído do vídeo. Aqui estêo as informações do vídeo:Vídeo: [Título do vídeo]  Descriçêo: [Descriçêo detalhada do vídeo]  Palavras-chave: [Palavras-chave relacionadas ao conteúdo]  Links: [@ARCKHÉ.tds](@ARCKHÉ.tds)Tópicos e timestamps:  00:00 - [Primeiro tópico]  [Tempo] - [Segundo tópico]  [Tempo] - [Terceiro tópico]  [Tempo] - [Quarto tópico]  [Tempo] - [Quinto tópico] Hashtags: #ARCKHÉ #comunidade [5 palavras-chave relacionadas ao SEO]\n{{76.result}}"
                                     }
                                 ],
                                 "max_tokens": "500",
@@ -1376,7 +1376,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "youtube"
                                                             },
-                                                            "label": "My YouTube connection (INEMA TDS <inematds@gmail.com>)"
+                                                            "label": "My YouTube connection (ARCKHÉ TDS <linnoff88-dev@gmail.com>)"
                                                         }
                                                     }
                                                 },
@@ -1694,7 +1694,7 @@
                                                                 "scoped": "true",
                                                                 "connection": "google"
                                                             },
-                                                            "label": "TDS Google connection (inematds@gmail.com)"
+                                                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                                                         }
                                                     }
                                                 },

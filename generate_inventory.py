@@ -201,7 +201,7 @@ def main():
                     "categories": categories,
                     "images": images,
                     "image_count": len(images),
-                    "source": "INEMA VIP",
+                    "source": "ARCKHÉ VIP",
                     "source_color": "#f59e0b",
                     "has_telegram": True,
                     "telegram_link": "https://t.me/+dN1X5kYnfgFkNmQx"
@@ -241,13 +241,13 @@ def main():
             "total_categories": len(categories),
             "total_folders": len(folders),
             "generated_at": datetime.now().isoformat(),
-            "source": "INEMA.Make VIP - Telegram"
+            "source": "ARCKHÉ.Make VIP - Telegram"
         },
         "categories": categories,
         "top_modules": top_modules,
         "sources": [{
-            "id": "inema-vip",
-            "name": "INEMA VIP",
+            "id": "ARCKHÉ-vip",
+            "name": "ARCKHÉ VIP",
             "color": "#f59e0b",
             "badge": "VIP",
             "badge_color": "gold",

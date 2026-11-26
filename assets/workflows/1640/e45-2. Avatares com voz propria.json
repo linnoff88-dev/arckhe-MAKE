@@ -40,7 +40,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted connection (inematds@gmail.com)"
+                            "label": "My Google Restricted connection (linnoff88-dev@gmail.com)"
                         },
                         "destination": {
                             "label": "My Drive"
@@ -807,7 +807,7 @@
                                 "scoped": "true",
                                 "connection": "google-restricted"
                             },
-                            "label": "My Google Restricted connection (inematds@gmail.com)"
+                            "label": "My Google Restricted connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },

@@ -20,7 +20,7 @@
                             "data": {
                                 "editable": "false"
                             },
-                            "label": "inematelebot"
+                            "label": "ARCKHÉtelebot"
                         }
                     }
                 },
@@ -675,7 +675,7 @@
                                 "scoped": "true",
                                 "connection": "telegram"
                             },
-                            "label": "Inematelebot conexao"
+                            "label": "ARCKHÉtelebot conexao"
                         }
                     }
                 },

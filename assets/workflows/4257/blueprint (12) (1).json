@@ -44,9 +44,9 @@
                         "spreadsheetId": {
                             "path": [
                                 "AI-Cursos",
-                                "INEMA-Automacoes",
+                                "ARCKHÉ-Automacoes",
                                 "Make",
-                                "INEMA"
+                                "ARCKHÉ"
                             ]
                         },
                         "includesHeaders": {
@@ -1949,7 +1949,7 @@
                                     "expect": {
                                         "page_id": {
                                             "mode": "chose",
-                                            "label": "INEMA Profissional Do Futuro"
+                                            "label": "ARCKHÉ Profissional Do Futuro"
                                         },
                                         "photos": {
                                             "mode": "chose",

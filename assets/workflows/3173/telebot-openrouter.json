@@ -20,7 +20,7 @@
                             "data": {
                                 "editable": "false"
                             },
-                            "label": "inematelebot"
+                            "label": "ARCKHÉtelebot"
                         }
                     }
                 },
@@ -250,7 +250,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "Inematelebot conexao",
+                            "label": "ARCKHÉtelebot conexao",
                             "data": {
                                 "scoped": "true",
                                 "connection": "telegram"

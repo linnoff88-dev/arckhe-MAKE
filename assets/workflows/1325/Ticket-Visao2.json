@@ -409,7 +409,7 @@
                                 "restore": {
                                     "parameters": {
                                         "__IMTCONN__": {
-                                            "label": "TDS Google connection (inematds@gmail.com)",
+                                            "label": "TDS Google connection (linnoff88-dev@gmail.com)",
                                             "data": {
                                                 "scoped": "true",
                                                 "connection": "google"
@@ -848,7 +848,7 @@
                                 "restore": {
                                     "parameters": {
                                         "__IMTCONN__": {
-                                            "label": "My PDF.co inematdsfuturos",
+                                            "label": "My PDF.co linnoff88-devfuturos",
                                             "data": {
                                                 "scoped": "true",
                                                 "connection": "pdf-co"
@@ -1257,7 +1257,7 @@
                                 "restore": {
                                     "parameters": {
                                         "__IMTCONN__": {
-                                            "label": "TDS Google connection (inematds@gmail.com)",
+                                            "label": "TDS Google connection (linnoff88-dev@gmail.com)",
                                             "data": {
                                                 "scoped": "true",
                                                 "connection": "google"

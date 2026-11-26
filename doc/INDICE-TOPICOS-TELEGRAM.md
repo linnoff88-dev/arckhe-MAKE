@@ -1,4 +1,4 @@
-# INDICE DE TOPICOS DO TELEGRAM - INEMA.Make
+# INDICE DE TOPICOS DO TELEGRAM - ARCKHÉ.Make
 
 **Total de Topicos:** 174
 **Periodo:** Dezembro 2024 - Novembro 2025
@@ -76,7 +76,7 @@
 | 8235 | nm9 | Planilha - Groq - Gera Conteudo |
 | 8224 | nm11 | webhooks groq - free |
 | 8273 | nm12 | INE|MA Digital Coach |
-| 8258 | nm14 | INEMA Manicure |
+| 8258 | nm14 | ARCKHÉ Manicure |
 | 8283 | nm15 | Bolt com Make |
 | 8304 | nm20 | DeepSite com Webhooks |
 | 8329 | nm21 | chatbot webhooks DeepsSite |
@@ -243,8 +243,8 @@
 
 | ID | Titulo | Nicho |
 |----|--------|-------|
-| 898 | Na1- INEMA Digital Coach v1 | Coaching |
-| 756 | NA2 - Webhooks INEMA Manicure | Beleza |
+| 898 | Na1- ARCKHÉ Digital Coach v1 | Coaching |
+| 756 | NA2 - Webhooks ARCKHÉ Manicure | Beleza |
 | 1278 | EN5 - Asistente IA: Cuida de tus mayores | Saude |
 | 1325 | EN6 - Ticket Visao | Varejo |
 | 1209 | En4- Whats Seguro | Seguranca |

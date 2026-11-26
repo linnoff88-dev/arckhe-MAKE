@@ -1160,7 +1160,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "TDS Google connection (inematds@gmail.com)"
+                            "label": "TDS Google connection (linnoff88-dev@gmail.com)"
                         }
                     }
                 },
@@ -1451,7 +1451,7 @@
                                                 "scoped": "true",
                                                 "connection": "facebook"
                                             },
-                                            "label": "INEMA My Facebook connection (Nei Eugenio Maldaner)"
+                                            "label": "ARCKHÉ My Facebook connection (Nei Eugenio Maldaner)"
                                         }
                                     }
                                 },
@@ -1523,7 +1523,7 @@
                                     "expect": {
                                         "accountId": {
                                             "mode": "chose",
-                                            "label": "INEMA TDS (@inema.tds)"
+                                            "label": "ARCKHÉ TDS (@ARCKHÉ.tds)"
                                         },
                                         "user_tags": {
                                             "mode": "chose"
@@ -1535,7 +1535,7 @@
                                                 "scoped": "true",
                                                 "connection": "facebook"
                                             },
-                                            "label": "INEMA My Facebook connection (Nei Eugenio Maldaner)"
+                                            "label": "ARCKHÉ My Facebook connection (Nei Eugenio Maldaner)"
                                         }
                                     }
                                 },

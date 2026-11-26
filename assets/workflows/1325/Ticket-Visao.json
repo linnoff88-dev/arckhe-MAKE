@@ -379,7 +379,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "TDS Google connection (inematds@gmail.com)",
+                            "label": "TDS Google connection (linnoff88-dev@gmail.com)",
                             "data": {
                                 "scoped": "true",
                                 "connection": "google"
